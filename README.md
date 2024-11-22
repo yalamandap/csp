@@ -95,7 +95,7 @@
             transition: transform 0.3s ease-in-out;
         }
 
-        .gallery-item img {
+        .gallery-item img { 
             width: 100%;
             height: auto;
             display: block;
