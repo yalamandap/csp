@@ -174,7 +174,7 @@
         <div class="extended-gallery">
             <!-- Gallery Items -->
             <div class="gallery-item">
-                <img src="C:\Users\Administrator\Downloads\IMG-20240521-WA0002.jpg" alt="Rural Workshop">
+                <img src="IMG-20240521-WA0002.jpg" alt="Rural Workshop">
                 <div class="gallery-caption">
                     <h5>Rural Outreach Program</h5>
                     <p>Conducting an awareness workshop in a village community center.</p>
